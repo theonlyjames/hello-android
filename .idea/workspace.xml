@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b655fba-31fd-44ca-9fc1-8477a755d6f4" name="Default" comment="" />
+    <list default="true" id="3b655fba-31fd-44ca-9fc1-8477a755d6f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="hello-android.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/platforms/android/res/xml/config.xml" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376549495274" ignored="false" />
@@ -11,6 +14,7 @@
     <file path="/index.html" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376550388848" ignored="false" />
     <file path="/app.js" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376550924722" ignored="false" />
     <file path="/index.css" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376550491113" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376552161543" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +154,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -189,7 +201,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -305,7 +317,7 @@
     <property name="SHOW_ALL_PROCESSES" value="true" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="Errors" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
