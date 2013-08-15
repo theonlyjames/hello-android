@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b655fba-31fd-44ca-9fc1-8477a755d6f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -15,6 +16,7 @@
     <file path="/app.js" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376550924722" ignored="false" />
     <file path="/index.css" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376550491113" ignored="false" />
     <file path="/Dummy.txt" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376552161543" ignored="false" />
+    <file path="/cordova.js" changelist="3b655fba-31fd-44ca-9fc1-8477a755d6f4" time="1376552202040" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +143,7 @@
       <file leaf-file-name="cordova.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/cordova.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="289" column="33" selection-start="9431" selection-end="9431" vertical-scroll-proportion="7.4870467">
+            <state line="289" column="34" selection-start="9432" selection-end="9432" vertical-scroll-proportion="0.9481865">
               <folding />
             </state>
           </provider>
@@ -165,12 +167,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/js/jquery-2.0.2.js" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.js" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/js/app.js" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" />
       </list>
     </option>
   </component>
@@ -688,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/cordova.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="289" column="33" selection-start="9431" selection-end="9431" vertical-scroll-proportion="7.4870467">
+        <state line="289" column="34" selection-start="9432" selection-end="9432" vertical-scroll-proportion="0.9481865">
           <folding />
         </state>
       </provider>
